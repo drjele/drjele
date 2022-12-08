@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @drjele
+- 👀 I’m interested in clean code and architecture
+- 🌱 I’m currently learning php, symfony, react, kotlin, docker
+- 💞️ I’m looking to collaborate on the open source packages i have started
